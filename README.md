@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://socialify.git.ci/younik2304/younik2304/image?font=Bitter&name=1&pattern=Solid&theme=Dark))
+[![MasterHead]([(https://rishavchanda.io](https://socialify.git.ci/younik2304/younik2304/image?font=Bitter&name=1&pattern=Solid&theme=Dark)])
 
 <h1 align="center">Hi 👋, I'm Anik Youssef</h1>
 <h3 align="center">A passionate engineering student from Morocco</h3>
