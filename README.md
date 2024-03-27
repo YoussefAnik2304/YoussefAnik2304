@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younik2304&show_icons=true&locale=en" alt="younik2304" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younik2304&" alt="younik2304" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+<img src="https://leet-code-card.vercel.app/v1/{youssefanik}"></img>
