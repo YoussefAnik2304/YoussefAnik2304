@@ -27,6 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=younik2304&show_icons=true&locale=en&layout=compact" alt="younik2304" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=younik2304&show_icons=true&locale=en" alt="younik2304" /></p>
-![]("https://leetcard.jacoblin.cool/youssefanik?border=0&radius=20")
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younik2304&" alt="younik2304" /></p>
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
