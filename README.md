@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [A personnal portfolio](https://github.com/younik2304/Personal-Portfolio)
 
-- 🌱 I’m currently learning **React , Nextjs**
+- 🌱 I’m currently learning **Nextjs, prisma , mongodb **
 
 - 👨‍💻 All of my projects are available at [https://anikyoussef.netlify.app/](https://anikyoussef.netlify.app/)
 
