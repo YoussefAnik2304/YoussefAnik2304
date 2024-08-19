@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=younik2304&label=Profile%20views&color=0e75b6&style=flat" alt="younik2304" /> </p>
 
-- 🔭 I’m currently working on [A personnal portfolio](https://github.com/younik2304/Personal-Portfolio)
+- 🔭 I’m currently working on ft-hub in FeverTokens 
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://anikyoussef.netlify.app/](https://anik-youssef.vercel.app/)
+- 👨‍💻 All of my projects are available at [Anik Youssef Portfolio ](https://anik-youssef.vercel.app/)
 
 - 💬 Ask me about **C/C++ , JAVA , SPRING BOOT , NEXTJS  ...**
 
