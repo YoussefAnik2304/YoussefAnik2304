@@ -1,4 +1,3 @@
-[![MasterHead](https://socialify.git.ci/younik2304/younik2304/image?font=Bitter&name=1&pattern=Solid&theme=Dark)](https://github.com/younik2304)
 <h1 align="center">Hi 👋, I'm Anik Youssef</h1>
 <h3 align="center">A passionate engineering student </h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
