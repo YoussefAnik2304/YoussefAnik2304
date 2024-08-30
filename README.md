@@ -38,6 +38,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YoussefAnik2304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=YoussefAnik2304&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=4" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefAnik2304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://leetcard.jacoblin.cool/youssefanik?theme=dark&font=ABeeZee" height="150"></img>
+
 </div>
 
   
