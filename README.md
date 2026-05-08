@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=YoussefAnik2304&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefAnik2304" />
 </p>
 
-<table border="0" cellspacing="0" cellpadding="8">
-<tr>
-<td valign="top" width="60%">
+<table border="0" cellspacing="0" cellpadding="8" style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td valign="top" width="60%" style="border: none;">
 
 - 🏢 Software Engineer at **Oracle R&D**, Casablanca — working on large-scale data processing systems
 - ⚡ Optimized backend workflows, reducing execution time from **30+ hours → minutes** (~99% improvement)
@@ -20,7 +20,7 @@
 - 📍 Based in **Casablanca, Morocco 🇲🇦**
 
 </td>
-<td valign="middle" align="center" width="40%">
+<td valign="middle" align="center" width="40%" style="border: none;">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding" />
 
