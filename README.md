@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Anik</h1>
 <h3 align="center">Software Engineer · Backend & Systems · Oracle R&D</h3>
 
-<img align="right" alt="Coding" width="380" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YoussefAnik2304&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefAnik2304" />
@@ -84,5 +84,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAnik2304&theme=react-dark&hide_border=false&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAnik2304&theme=react-dark&hide_border=false&area=true" width="100%" alt="activity graph" />
 </div>
