@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=YoussefAnik2304&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefAnik2304" />
 </p>
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
 <tr>
 <td valign="top" width="60%">
 
