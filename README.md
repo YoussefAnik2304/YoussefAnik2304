@@ -76,10 +76,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefAnik2304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YoussefAnik2304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAnik2304&theme=blue-green&hide_border=false" height="160" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAnik2304&theme=blue-green&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefAnik2304&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1" alt="trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAnik2304&theme=react-dark&hide_border=false&area=true" alt="activity graph" />
 </div>
