@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Youssef Anik</h1>
 <h3 align="center">Software Engineer · Backend & Systems · Oracle R&D</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=YoussefAnik2304&label=Profile%20views&color=0e75b6&style=flat" alt="YoussefAnik2304" />
 </p>
 
----
+<table>
+<tr>
+<td valign="top" width="60%">
 
 - 🏢 Software Engineer at **Oracle R&D**, Casablanca — working on large-scale data processing systems
 - ⚡ Optimized backend workflows, reducing execution time from **30+ hours → minutes** (~99% improvement)
@@ -18,6 +18,15 @@
 - 💬 Ask me about **Java · Spring Boot · System Design · Next.js · DevOps**
 - 📫 Reach me at **youssefanik@gmail.com**
 - 📍 Based in **Casablanca, Morocco 🇲🇦**
+
+</td>
+<td valign="middle" align="center" width="40%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding" />
+
+</td>
+</tr>
+</table>
 
 ---
 
